@@ -1,0 +1,9 @@
+    Pin No.                        Connection :
+  
+   2                               +5v VCC
+  
+   6                               Ground
+
+     33                              Input 1(Green Bulb)
+ 
+    35                              Input 2(Red Bulb)
